@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`. It will show the variables in the dataset and their meanings.
+This code book summarizes the resulting data fields in `tidy.txt` and `tidy.csv`. It will show the variables in the dataset and their meanings.
 
 ## Identifiers
 
